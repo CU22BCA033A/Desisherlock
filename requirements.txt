@@ -1,0 +1,6 @@
+requests
+colorama
+pyfiglet
+dnspython
+python-whois
+cryptography
